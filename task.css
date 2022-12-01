@@ -1,0 +1,23 @@
+ section{		
+		   border:solid 1px black;
+		   height:400px;
+		   width:400px;
+		   margin: 0 auto;
+		   margin-top:100px;
+		   }
+		
+		  .icon{
+			  font-size:50px;
+			  padding-left:170px;
+			  padding-top:100px;
+			 
+			}
+		   h1{
+			  padding-left:140px;
+			 
+		   }
+		   p{
+			   font-size:19px;
+			 
+			   text-align:center;	
+		   }
